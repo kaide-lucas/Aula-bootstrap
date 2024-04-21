@@ -1,9 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T04:07:57.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.2.7" etag="F4ap6u7VBSo5jbdX6S08" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T04:29:44.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="twk-vPd0rb7BnD1mcow6" version="24.2.7" type="github">
   <diagram name="Página-1" id="P75S6INsRdGQsIeCWpIv">
-    <mxGraphModel>
+    <mxGraphModel dx="752" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="haypkq_aao_ZLHlwZoK7-1" value="para uma pessoa?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="360" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-2" value="Inicio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-2" target="haypkq_aao_ZLHlwZoK7-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="230" as="sourcePoint" />
+            <mxPoint x="395" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.583;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-1" target="haypkq_aao_ZLHlwZoK7-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="400" as="targetPoint" />
+            <mxPoint x="480" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-4" value="Pegue uma panela" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-4" target="haypkq_aao_ZLHlwZoK7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-1" target="haypkq_aao_ZLHlwZoK7-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-8" value="Não" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-9" value="Sim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-10" value="Pegue a quantidade&amp;nbsp;&lt;div&gt;de pacotes igual ao número de pessoas&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-11" value="Pegue um pacote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-10" target="haypkq_aao_ZLHlwZoK7-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="240" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="haypkq_aao_ZLHlwZoK7-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="520" as="sourcePoint" />
+            <mxPoint x="600" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-14" value="Separe uma porção&lt;div&gt;de água&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-14" target="haypkq_aao_ZLHlwZoK7-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="690" as="sourcePoint" />
+            <mxPoint x="420" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-17" target="haypkq_aao_ZLHlwZoK7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-17" value="Ligar o fogão" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="710.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-18" target="haypkq_aao_ZLHlwZoK7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-18" value="Coloque a panela&amp;nbsp;&lt;div&gt;no fogo&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="850.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-20" target="haypkq_aao_ZLHlwZoK7-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-20" value="Coloque a àgua" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="990.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-22" target="haypkq_aao_ZLHlwZoK7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-22" value="Coloque o macarrão]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1130.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-24" target="haypkq_aao_ZLHlwZoK7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-24" value="Coloque o tempero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1270.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-26" target="haypkq_aao_ZLHlwZoK7-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-26" value="Aguarde três minutos após o inicio da água fervente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1410.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="haypkq_aao_ZLHlwZoK7-28" target="haypkq_aao_ZLHlwZoK7-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-28" value="Desligue o fogão&lt;div&gt;e sirva&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1550.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="haypkq_aao_ZLHlwZoK7-30" value="Fim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1690.0000000000002" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
